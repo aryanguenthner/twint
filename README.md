@@ -1,4 +1,7 @@
 # TWINT - Twitter Intelligence Tool
+
+Tested on Ubuntu 10.04.06
+
 ![2](https://i.imgur.com/iaH3s7z.png)
 ![3](https://i.imgur.com/hVeCrqL.png)
 
